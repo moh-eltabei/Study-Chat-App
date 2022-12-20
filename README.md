@@ -8,8 +8,7 @@ Fonts: Pacifico, RobotoMono
 
 ## Screenshots
 
-#### Homescreen
-<img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/signIn-signUp-page.png" height="500" />__ <img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/signIn-Page.png" width="250" height="500" />__ <img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/signUp-page.png" width="250" height="500" />__ <img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/chat-page.png" width="250" height="500" />
+<img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/signIn-signUp-page.png" height="500" /> &nbsp; &nbsp; <img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/signIn-Page.png" width="250" height="500" /> &nbsp; &nbsp; <img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/signUp-page.png" width="250" height="500" /> &nbsp; &nbsp; <img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/chat-page.png" width="250" height="500" />
 
 
 For help getting started with Flutter development, view the
