@@ -1,15 +1,16 @@
-# chat_app
+# Study Chat App
+it's a simple flutter App - Study Group Chat with a Sginin and Signup Screen using firebase
 
-A new Flutter project.
+## Tools
+Flutter || Dart || Firebase || VS code<br />
+Packages: firebase_core, firebase_auth, cloud_firestore, modal_progress_hud_nsn <br />
+Fonts: Pacifico, RobotoMono
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+#### Homescreen
+<img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/signIn-signUp-page.png" height="500" />__ <img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/signIn-Page.png" width="250" height="500" />__ <img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/signUp-page.png" width="250" height="500" />__ <img src="https://github.com/moh-eltabei/Study-Chat-App/blob/master/screenshots/chat-page.png" width="250" height="500" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
