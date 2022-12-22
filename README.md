@@ -3,7 +3,8 @@ it's a simple flutter App - Study Group Chat with a Sginin and Signup Screen usi
 
 ## Tools
 Flutter || Dart || Firebase || VS code<br />
-Packages: firebase_core, firebase_auth, cloud_firestore, modal_progress_hud_nsn <br />
+State Management: Bloc,Cubit <br />
+Packages: firebase_core, firebase_auth, cloud_firestore, flutter_bloc, modal_progress_hud_nsn <br />
 Fonts: Pacifico, RobotoMono
 
 ## Screenshots
