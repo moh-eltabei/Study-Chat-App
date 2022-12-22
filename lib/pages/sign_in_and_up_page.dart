@@ -59,7 +59,7 @@ class SignInAndUpPage extends StatelessWidget {
                   onTap: (() {
                     Navigator.pushNamed(
                       context,
-                      SignIn.id,
+                      SignInPage.id,
                     );
                   }),
                 ),
@@ -71,7 +71,7 @@ class SignInAndUpPage extends StatelessWidget {
                   onTap: (() {
                     Navigator.pushNamed(
                       context,
-                      SignUp.id,
+                      SignUpPage.id,
                     );
                   }),
                 ),
